@@ -7,3 +7,4 @@ This line is added by B.
 This line is added by B 2.
 This line is added by A 2.
 This line is added by B 3.
+This line is added by A 3.
